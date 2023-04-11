@@ -1,0 +1,48 @@
+#image {
+    max-width:100%;
+    height:auto;
+    width:40%;
+    margin:20px auto;
+  }
+  img {
+    display:block;
+  }
+
+  body {
+    display: flex;
+    justify-content:center;
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  #title {
+    text-align: center;
+    font-size:32px;
+    margin-top:10px;
+  }
+
+  #main {
+    background-color: gray;
+    display: flex;
+    flex-direction:column
+  }
+
+  ul {
+    margin: 30px 20px;
+  }
+  li {
+    margin-bottom: 20px;
+  }
+
+  #img-caption {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+  }
+
+  div {
+    border-bottom: 1px solid ;
+  }
+
+  #get_to_know {
+    text-align: center;
+  }
